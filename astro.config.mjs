@@ -8,7 +8,7 @@ export default defineConfig({
 	base: '',
 	integrations: [
 		starlight({
-			title: '',
+			title: 'F1r3ch0	',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
 				{
