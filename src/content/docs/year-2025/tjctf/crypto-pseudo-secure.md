@@ -1,3 +1,7 @@
+---
+title: Crypto - Pseudo-Random
+---
+
 # Crypto - Pseudo-Random
 
 ## Challenge
