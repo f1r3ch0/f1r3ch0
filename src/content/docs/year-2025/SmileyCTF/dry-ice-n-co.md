@@ -70,7 +70,7 @@ for admin, just checking for other one, therefor making us able to add product.
 We can assign some negative number, hopping when buy the balance will go up. But when add negative item into the cart,
 they suddenly turn into positive number.
 
-![img.png](assets/image/dry-ice-n-co/img.png)
+![img.png](~/assets/dry-ice-n-co/img.png)
 
 In the `getTotal` function, to avoid any negative number the application get te total then use `Math.abs(total)` to get
 the positive value of the cart.
@@ -102,7 +102,7 @@ public static int abs(int a) {
 But when we add using the min value, the balance will overflow result in our balance will become `Integer.MIN_VALUE`. So
 using the coupon code earlier, we can reduce the total of the cart, effectively add some cash into our balance.
 
-![img.png](assets/image/dry-ice-n-co/bal.png)
+![img.png](~/assets/dry-ice-n-co/bal.png)
 
 Using that balance, we can easily buy our flag.
 
