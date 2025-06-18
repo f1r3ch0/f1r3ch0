@@ -1,5 +1,5 @@
 ---
-title: Pwwn - I-love-birds
+title: Pwn - I-love-birds
 ---
 
 ## Solution

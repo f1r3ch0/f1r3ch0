@@ -1,8 +1,6 @@
 ---
-title: dry-ice-n-co
+title: Web - dry-ice-n-co
 ---
-
-# dry-ice-n-co
 
 ## Introduction
 
