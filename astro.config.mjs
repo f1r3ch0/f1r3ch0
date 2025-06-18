@@ -16,6 +16,7 @@ export default defineConfig({
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'TJCTF 2025', autogenerate: { directory: 'year-2025/tjctf'} },
+						{ label: 'SmileyCTF 2025', autogenerate: { directory: 'year-2025/SmileyCTF'} },
 					],
 				},
 			],
