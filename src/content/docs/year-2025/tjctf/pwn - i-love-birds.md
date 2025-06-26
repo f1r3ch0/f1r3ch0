@@ -88,7 +88,6 @@ sl(b'A'*0x48 + b'B'*4 + p32(canary) + p64(0) + p64(0x4011dc))
 interactive()
 ```
 
-## Mở rộng
 
 - Buffer Overflow là một lỗi bảo mật xảy ra khi một chương trình cố gắng ghi dữ liệu vào một vùng bộ nhớ mà không kiểm tra kích thước của dữ liệu đó, dẫn đến việc ghi đè lên các vùng bộ nhớ khác. Trong trường hợp này, hàm `gets(buf)` không kiểm tra kích thước của chuỗi nhập vào, cho phép kẻ tấn công ghi đè lên các biến khác trong stack, bao gồm cả biến `canary` và địa chỉ trả về của hàm.
 
