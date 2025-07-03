@@ -1,5 +1,5 @@
 ---
-title: Restricted-oracle
+title: Crypto - Restricted-oracle
 ---
 
 ## Source
