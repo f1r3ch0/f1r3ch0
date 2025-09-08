@@ -22,6 +22,7 @@ export default defineConfig({
 						{ label: 'SmileyCTF 2025', autogenerate: { directory: 'year-2025/SmileyCTF'} },
                         { label: 'GPN CTF 2025', autogenerate: { directory: 'year-2025/GPNCTF'} },
                         { label: 'SekaiCTF 2025', autogenerate: { directory: 'year-2025/SekaiCTF'} },
+                        { label: 'HolaCTF 2025', autogenerate: { directory: 'year-2025/HolaCTF'} },
 					],
 				},
 			],
